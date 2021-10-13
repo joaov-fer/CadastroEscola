@@ -1,2 +1,2 @@
 # Cadastro Escola
-Exemplo Spring + Thymeleaf
+Exemplo Java Spring + Thymeleaf
