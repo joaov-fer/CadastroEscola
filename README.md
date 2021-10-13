@@ -1,1 +1,2 @@
-# CadastroEscola
+# Cadastro Escola
+Exemplo Spring + Thymeleaf
